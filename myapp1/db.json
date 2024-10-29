@@ -1,0 +1,81 @@
+{
+  "product": [
+    {},
+    {
+      "id": "4585",
+      "name": "Laptop",
+      "Price": "",
+      "Category": "electronics"
+    },
+    {
+      "id": "b87b",
+      "name": "Laptop",
+      "Price": "57",
+      "Category": "electronics"
+    },
+    {
+      "id": "5d5a",
+      "name": "laptop",
+      "Price": "66",
+      "Category": "electronics"
+    },
+    {
+      "id": "4388",
+      "name": "bread",
+      "Price": "57",
+      "Category": ""
+    },
+    {
+      "id": "ada7",
+      "name": "bread",
+      "Price": "57",
+      "Category": ""
+    },
+    {
+      "id": "0e17",
+      "name": "bread",
+      "Price": "57",
+      "Category": "electronics"
+    },
+    {
+      "id": "3085",
+      "name": "tronani",
+      "Price": "80",
+      "Category": "grocery"
+    },
+    {
+      "id": "47c6",
+      "name": "Animesh Kumar",
+      "Price": "60",
+      "Category": "grocery"
+    },
+    {
+      "id": "1d3f",
+      "name": "Animesh Kumar",
+      "Price": "60",
+      "Category": "grocery"
+    },
+    {
+      "id": "6fda",
+      "name": "Animesh Kumar",
+      "Price": "62",
+      "Category": "grocery",
+      "Photo": "C:\\fakepath\\IMG_20210305_102205-min (3).png"
+    },
+    {
+      "id": "2c74",
+      "name": "",
+      "Price": "62",
+      "Category": "grocery",
+      "Photo": "C:\\fakepath\\IMG_20210305_102205-min (3).png"
+    }
+  ],
+  "loginCred": [
+    {},
+    {
+      "id": "eddb",
+      "email": "animeshkumar6515@gmail.com",
+      "Password": "pass"
+    }
+  ]
+}
